@@ -28,8 +28,7 @@ conceptos.
 
 En este proyecto se construyó una aplicación web que le permita a un
 usuario validar el número de una tarjeta de crédito. Implementando funcionalidad para ocultar todos los dígitos de una tarjeta, menos los últimos cuatro, utilizando el Algorítmo de Luhn.
-El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
-también llamado algoritmo de módulo 10, es un método de suma de verificación,
+El algoritmo de Luhn también llamado algoritmo de módulo 10, es un método de suma de verificación,
 se utiliza para validar números de identificación; tales como el IMEI de los
 celulares, tarjetas de crédito, etc.
 
@@ -39,7 +38,6 @@ par se les debe multiplicar por dos, si este número es mayor o igual a 10,
 debemos sumar los dígitos del resultado; el número a verificar será válido si
 la suma de sus dígitos finales es un múltiplo de 10.
 
-![gráfica de algoritmo de Luhn](https://user-images.githubusercontent.com/12631491/217016579-865679e0-0949-4afd-b13f-d2ebba7a0c54.png)
 
 ## 3. Resumen del proyecto
 
@@ -66,14 +64,9 @@ Buscarán una compra segura y clara donde la compra sea eficiente desde el momen
 El realizar una página especifica para el momento de ingresar datos personales, pienso debe de ser grande, legíble, no sólo en una ventana emergente. Que el usuario realmente se sienta motivado a comprar y no desista en el último momento. 
 
 
-
  
 **4 .Conclusión:.** 
 *Este proyecto fue fundamentado en: HTML, CSS, JavaScript.
 *Se cumplieron los objetivos de aprendizaje generales y particulares.
 *Se realizaron pruebas unitarias realizadas de los métodos `validator` (`isValid` y `maskify`).
 *Se subió el proyecto a un repositorio de Github pages de forma pública.
-
-
-
-
